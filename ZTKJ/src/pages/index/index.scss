@@ -1,0 +1,19 @@
+body :global{
+  margin: 0;
+  padding: 0;
+  font-family: '微软雅黑'!important;
+}
+html,body{
+  height:100%;
+  color:#000;
+  a{
+    text-decoration:none!important;
+  }
+  ul{
+    list-style: none;
+  }
+  h3{
+    margin:0;
+    padding:0;
+  }
+}
